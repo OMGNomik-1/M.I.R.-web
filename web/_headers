@@ -1,0 +1,8 @@
+/canvaskit/chromium/canvaskit.wasm
+  Content-Type: application/wasm
+/canvaskit/*
+  Cross-Origin-Resource-Policy: cross-origin
+/*.js
+  Content-Type: application/javascript
+/*.wasm
+  Content-Type: application/wasm
